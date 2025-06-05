@@ -1,5 +1,7 @@
 ---
-Superposition -- The Blog
+title: Superposition -- The Blog
+# export_manifest: ./manifests/index.yml
+# memory_seal: true
 ---
 The Latest Advancements in Quantum Physics
 Quantum physics continues to evolve, pushing the boundaries of our understanding of the universe. Here are some of the most exciting developments in the field:
